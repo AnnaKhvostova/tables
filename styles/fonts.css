@@ -1,0 +1,26 @@
+/* arimo-regular - latin_cyrillic */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/arimo-v13-latin_cyrillic-regular.eot'); /* IE9 Compat Modes */
+  src: local('Arimo Regular'), local('Arimo-Regular'),
+       url('../fonts/arimo-v13-latin_cyrillic-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/arimo-v13-latin_cyrillic-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/arimo-v13-latin_cyrillic-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/arimo-v13-latin_cyrillic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/arimo-v13-latin_cyrillic-regular.svg#Arimo') format('svg'); /* Legacy iOS */
+}
+/* arimo-700 - latin_cyrillic */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/arimo-v13-latin_cyrillic-700.eot'); /* IE9 Compat Modes */
+  src: local('Arimo Bold'), local('Arimo-Bold'),
+       url('../fonts/arimo-v13-latin_cyrillic-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/arimo-v13-latin_cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/arimo-v13-latin_cyrillic-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/arimo-v13-latin_cyrillic-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/arimo-v13-latin_cyrillic-700.svg#Arimo') format('svg'); /* Legacy iOS */
+}

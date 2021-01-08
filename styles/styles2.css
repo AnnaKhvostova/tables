@@ -1,0 +1,27 @@
+.first-column-tableVertical {
+    width:200px;
+    /* font-size: 24px; */
+
+}
+.other-columns-tableVertical {
+    width:157px;
+box-sizing: border-box;}
+ td{vertical-align: middle; 
+    border-bottom: 1px solid rgb(197, 201, 197);
+}
+    
+.header-tableVertical {
+font-size: 14px; 
+font-weight: bold;
+border-bottom:30px solid rgb(11, 11, 71);}
+.cell {padding: 34px 0;}
+.cell p:last-child {font-size: 20px;line-height: 28px;}
+#newBTN {font-size: initial; margin-bottom: 40px;}
+
+tr th:nth-child(even) {background-color:#e3e3e3;}
+tr td:nth-child(even) {background-color:#e3e3e3;}
+.vertical {font-size: 1.8em; margin: 9px 0;}
+.service-menu p:first-child {margin-top: 10px;}
+.cell:hover .icons{transform: scale(1.2);}
+/* .other-columns-tableVertical col:nth-child(even) {background-color:#e3e3e3;} */
+/* .TableVertical td {box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 1);} */
